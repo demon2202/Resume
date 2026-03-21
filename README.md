@@ -1,1 +1,3 @@
-[resume.pdf](https://github.com/user-attachments/files/26158092/resume.pdf)
+<a href="./resume.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/View-Resume-blue?style=for-the-badge&logo=adobeacrobatreader" />
+</a>
